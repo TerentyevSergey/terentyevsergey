@@ -20,3 +20,9 @@
 ### :man_technologist:  Обо мне / About Me:
 Я начинающий QA Engeneer / I am a beginer QA Engeneer <img src="https://media.giphy.com/media/ZdO1mXD9kgpCslD5ka/giphy.gif" width="40">.
 
+---
+### :hammer_and_wrench: Skills :
+
+<div>
+ <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" align="centre" height="45px"></img>
+</div>

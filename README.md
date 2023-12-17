@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="analyzethat@inbox.ru">
+  <a href="mailto:analyzethat@inbox.ru">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>

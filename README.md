@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/qJ97EAEF91OJNmNZpY/giphy.gif" width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="analyzethat@inbox.ru">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=TerentyeSergey&style=flat-square&color=blue" alt=""/>
 <div>
